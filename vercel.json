@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "rootDirectory": "CV-Showcase",
+  "builds": [
+    {
+      "src": "artifacts/portfolio/package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "artifacts/portfolio/dist/public"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
