@@ -54,3 +54,4 @@ artifacts/**/.tsbuildinfo
 lib/**/dist/
 lib/**/*.tsbuildinfo
 scripts/*.tsbuildinfo
+build-log.txt
