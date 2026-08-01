@@ -1,6 +1,5 @@
 {
   "version": 3,
-  "rootDirectory": "CV-Showcase",
   "builds": [
     {
       "src": "artifacts/portfolio/package.json",
