@@ -2,10 +2,10 @@
   "version": 2,
   "builds": [
     {
-      "src": "artifacts/portfolio/package.json",
+      "src": "CV-Showcase/artifacts/portfolio/package.json",
       "use": "@vercel/static-build",
       "config": {
-        "distDir": "artifacts/portfolio/dist/public"
+        "distDir": "dist/public"
       }
     }
   ],
