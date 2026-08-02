@@ -1,0 +1,4 @@
+packages:
+  - CV-Showcase/artifacts/*
+  - CV-Showcase/lib/*
+  - CV-Showcase/scripts
