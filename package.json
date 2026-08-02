@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "nader",
+  "packageManager": "pnpm@9.32.0",
+  "workspaces": [
+    "CV-Showcase"
+  ]
+}
