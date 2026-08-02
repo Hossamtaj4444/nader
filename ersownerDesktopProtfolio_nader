@@ -1,8 +1,0 @@
-[33m532dde4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Fix: Change version from 3 to 2 in vercel.json
-[33mea20f96[m Fix: Remove unsupported rootDirectory property from vercel.json
-[33m42f4edd[m Add root Vercel configuration for CV-Showcase portfolio deployment
-[33m8f6ef0c[m Restore CV-Showcase .gitignore and ignore generated Vite artifacts
-[33m6a80d74[m Add CV-Showcase project sources as normal tracked directory
-[33m3385b4d[m Track CV-Showcase project sources instead of gitlink
-[33mf5ffa3e[m Deploy project to GitHub
-[33m7b3ca1a[m Initial commit
